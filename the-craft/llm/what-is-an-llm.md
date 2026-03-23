@@ -1,6 +1,9 @@
+# WIP
+
 ## What is an LLM:
 * Next token generator
 * LLMs are probabilistic generators
+* *A high-dimensional statistical engine. The challenge isn't the "Large" part; it's managing hallucination, context window limits, and cost-to-latency trade-offs.
 * params: context_window, temperature, etc.
 
 ## What is a hallucination

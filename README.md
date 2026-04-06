@@ -6,6 +6,8 @@ This repository is a living map for navigating the transition from writing code 
 
 ## 🧩 Future Features
 
+* Prompt-engineering
+* Agent building
 * A RAG-based chatbot assistant with which you can communicate and retrieve information from the repository.
 
 ## 🗺️ The Roadmap

@@ -4,6 +4,10 @@ From First Principles to AI Agents: A Collaborative Reference for the Modern Eng
 
 This repository is a living map for navigating the transition from writing code to engineering intelligent systems. It bridges the gap between fundamental engineering mindsets and the cutting-edge implementation of Generative AI.
 
+## 🧩 Future Features
+
+* A RAG-based chatbot assistant with which you can communicate and retrieve information from the repository.
+
 ## 🗺️ The Roadmap
 
 * ``The-Foundation/``: Engineering First Principles, Systems Thinking, Constraints and Trade-offs.
